@@ -12,7 +12,7 @@ npm install manifoldjs-web
 In node.js:
 
 ```
-var platform = require('manifoldjs-web')
+var platform = require('xanifoldjs-web')
 ```
 
 ## Documentation
